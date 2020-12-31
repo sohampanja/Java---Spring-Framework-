@@ -7,6 +7,6 @@ import com.sample.Interfaces.Vehicle;
 @Component
 public class Bike  implements Vehicle {
 	public  void drive () {
-		System.out.println("Bike is running");
+		System.out.println("Bike is running..");
 	}
 }
